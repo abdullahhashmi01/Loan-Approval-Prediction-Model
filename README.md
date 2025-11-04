@@ -1,5 +1,3 @@
-# Loan-Approval-Prediction-Model
-
 # 🏦 Loan Approval Prediction Model
 
 This project focuses on predicting whether a loan application will be **approved or rejected** using **machine learning algorithms**. It aims to assist financial institutions in making quick, data-driven lending decisions.
@@ -44,13 +42,12 @@ The model analyzes applicant and loan-related features such as **income, credit 
 
 ---
 
-Model,Test Accuracy,Average Cross-Validation Score
-Logistic Regression,0.85,0.84
-SVC (Support Vector Classifier),0.85,0.83
-Decision Tree Classifier,0.86,0.78
-Random Forest Classifier,0.83,0.83
-Gradient Boosting Classifier,0.86,0.82
----
+Model	Test Accuracy	Average Cross-Validation Score
+Logistic Regression	0.85	0.84
+SVC (Support Vector Classifier)	0.85	0.83
+Decision Tree Classifier	0.86	0.78
+Random Forest Classifier	0.83	0.83
+Gradient Boosting Classifier	0.86	0.82
 
 ## 📈 Insights
 
