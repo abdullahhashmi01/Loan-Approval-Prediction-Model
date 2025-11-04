@@ -42,12 +42,27 @@ The model analyzes applicant and loan-related features such as **income, credit 
 
 ---
 
-Model	Test Accuracy	Average Cross-Validation Score
-Logistic Regression	0.85	0.84
-SVC (Support Vector Classifier)	0.85	0.83
-Decision Tree Classifier	0.86	0.78
-Random Forest Classifier	0.83	0.83
-Gradient Boosting Classifier	0.86	0.82
+## Result
+Logistic Regression
+Test Accuracy: 0.85 (85%)
+Average Cross-Validation Score: 0.84 (84%)
+
+SVC (Support Vector Classifier)
+Test Accuracy: 0.85 (85%)
+Average Cross-Validation Score: 0.83 (83%)
+
+Decision Tree Classifier
+Test Accuracy: 0.86 (86%)
+Average Cross-Validation Score: 0.78 (78%)
+
+Random Forest Classifier
+Test Accuracy: 0.83 (83%)
+Average Cross-Validation Score: 0.83 (83%)
+
+Gradient Boosting Classifier
+Test Accuracy: 0.86 (86%)
+Average Cross-Validation Score: 0.82 (82%)
+
 
 ## 📈 Insights
 
