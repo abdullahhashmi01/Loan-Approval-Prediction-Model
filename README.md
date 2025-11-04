@@ -43,25 +43,12 @@ The model analyzes applicant and loan-related features such as **income, credit 
 ---
 
 ## Result
-** Logistic Regression**
-Test Accuracy: 0.85 (85%)
-Average Cross-Validation Score: 0.84 (84%)
+ 
+High Accuracy across the board: Most models achieved a Test Accuracy in the 83%-86% range.
 
-**SVC (Support Vector Classifier)**
-Test Accuracy: 0.85 (85%)
-Average Cross-Validation Score: 0.83 (83%)
+Stability is Key: While Decision Tree and Gradient Boosting had the highest Test Accuracy (0.86), the Decision Tree had the lowest Cross-Validation score (0.78), indicating potential instability or overfitting.
 
-** Decision Tree Classifier**
-Test Accuracy: 0.86 (86%)
-Average Cross-Validation Score: 0.78 (78%)
-
-** Random Forest Classifier**
-Test Accuracy: 0.83 (83%)
-Average Cross-Validation Score: 0.83 (83%)
-
-** Gradient Boosting Classifier
-Test Accuracy: 0.86 (86%)
-Average Cross-Validation Score: 0.82 (82%)
+Best starting point: Logistic Regression had a strong, stable performance (0.85 Acc, 0.84 CV Score).
 
 
 ## 📈 Insights
